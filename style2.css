@@ -1,0 +1,31 @@
+h1{
+    font-size: 75px;
+    text-align: center;
+    margin-bottom: 100px;
+    color:black;
+}   
+
+body{
+    background-color: beige;
+    flex-wrap: wrap;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+button{
+  background-color: beige;
+  display: flex;
+   flex-wrap: wrap;
+   margin: auto;
+  padding: 20px 50px;
+  border-radius: 10px;
+  border-color: silver;
+  cursor: pointer;
+  
+}
